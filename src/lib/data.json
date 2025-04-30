@@ -1,0 +1,60 @@
+{
+    "California": {
+        "price": 19700,
+        "detailed_price": {
+            "gas": 200,
+            "car": 3000,
+            "accomodation": 9000,
+            "food": 500,
+            "activities": 2500,
+            "plane_ticket": 4500
+        },
+        "duration": 29,
+        "transit_days": 6,
+        "average_travel_time": 3,
+        "stops": {
+            "Los Angeles": 7,
+            "Sequoia National Park": 3,
+            "Yosemite National Park": 3,
+            "Lake Tahoe": 3,
+            "San Francisco": 7
+        },
+        "total_stops": 5,
+        "best_season": "Mayo/Sept.",
+        "distance": 1250,
+        "beach": true,
+        "mountain": true,
+        "city": true,
+        "amusement_park": true
+    },
+    "BosWash": {
+        "price": 20100,
+        "detailed_price": {
+            "gas": 100,
+            "car": 3000,
+            "accomodation": 10000,
+            "food": 500,
+            "activities": 1000,
+            "plane_ticket": 5500
+        },
+        "duration": 29,
+        "transit_days": 8,
+        "average_travel_time": 2,
+        "stops": {
+            "White Mountain National Forest": 3,
+            "Boston": 5,
+            "Providence": 1,
+            "New Haven": 1,
+            "New York": 5,
+            "Philadelphia": 3,
+            "Washington DC": 3
+        },
+        "total_stops": 7,
+        "best_season": "May/Sept.",
+        "distance": 975,
+        "beach": false,
+        "mountain": true,
+        "city": true,
+        "amusement_park": true
+    }
+}
